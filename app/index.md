@@ -20,4 +20,4 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [The Killers](writer/the_killers) | the.killers@onlyrics.magazine
 
-[Mr. Brightside](song/jan/mr_brightside.md)
+[Somebody_to_love](song/feb/Somebody_to_love.md)
